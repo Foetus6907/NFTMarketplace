@@ -49,7 +49,6 @@ describe("NFT Market", function () {
       }))
 
       expect(marketItems).lengthOf(2);
-
   });
 
   it('should return my created NFT items', async function () {
